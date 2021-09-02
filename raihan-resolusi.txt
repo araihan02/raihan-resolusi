@@ -1,3 +1,4 @@
 Raihan Resolusi
 - membuat blog tutor
-- membuat merch shop
+- membuat aplikasi ecomerce
+- membuat vlog
