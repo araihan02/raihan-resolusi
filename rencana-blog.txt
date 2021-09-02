@@ -1,3 +1,6 @@
 rencana blog
 - membuat tutorial web programming
+  * html
+  * css
+  * javascript
 - membuat tutorial android
