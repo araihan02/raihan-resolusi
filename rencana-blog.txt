@@ -3,7 +3,6 @@ rencana blog
   * html
   * css
   * javascript
-  * kotlin
 - membuat tutorial android
  * flutter
  * react native
